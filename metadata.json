@@ -1,0 +1,5 @@
+{
+  "name": "TalkFlow: Estúdio de vozes",
+  "description": "Um aplicativo web para gerar 6 faixas de áudio de voz a partir de texto simultaneamente usando a API Gemini e, em seguida, combiná-las em um único arquivo de áudio mestre.",
+  "requestFramePermissions": []
+}
